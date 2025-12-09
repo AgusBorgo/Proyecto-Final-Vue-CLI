@@ -11,10 +11,16 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <RouterLink class="nav-link" to="/ingreso">Ingreso</RouterLink>
+            <RouterLink class="nav-link" to="/respuestas">Respuestas</RouterLink>
           </li>
           <li class="nav-item">
-            <RouterLink class="nav-link" to="/respuestas">Respuestas</RouterLink>
+            <RouterLink class="nav-link" to="/convertor">Convertor</RouterLink>
+          </li>
+          <li class="nav-item">
+            <RouterLink class="nav-link" to="/convertor2">Convertor 2</RouterLink>
+          </li>
+           <li class="nav-item">
+            <RouterLink class="nav-link" to="/convertor3">Convertor 3</RouterLink>
           </li>
         </ul>
       </div>
